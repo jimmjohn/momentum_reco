@@ -9,7 +9,7 @@
 The Jupyter notebook is a web-based notebook environment for interactive
 computing.
 
-![Jupyter notebook example](docs/resources/running_code_med.png 'Jupyter notebook example')
+![Fluka Sibyll Muplus](Momentum_reco/Tunfold_output_data_reco_momentum_muplus_v107.png 'Fluka Sibyll')
 
 ## Maintained versions
 
